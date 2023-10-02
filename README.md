@@ -1,4 +1,4 @@
-# SeekCap Hermes
+# CBS Backoffice
 
 This is the Frontend of the CBS Backoffice.
 
@@ -14,5 +14,6 @@ This is the Frontend of the CBS Backoffice.
 ## How to install
 
 1. Checkout repository
-2. Run `npm install`
-3. Run `npm run dev`
+2. Update `env` file with the auth and product service api url
+3. Run `npm install`
+4. Run `npm run dev`
